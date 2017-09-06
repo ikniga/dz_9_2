@@ -1,0 +1,52 @@
+p {
+    color: #fff;
+    text-align: center;
+}
+
+.logo {
+    height: 70px;
+    background-color: #b3e5fc ;
+}
+
+.logo p {
+    padding-top: 20px;
+}
+
+.item {
+	margin-right: 1px;
+    width: calc(100%/8);
+    background-color: #b3e5fc ;
+    color: #fff;
+    text-align: center;
+    margin-top: 35px;
+}
+.width {
+    height: 630px;
+    background-color: #b3e5fc ;
+}
+a {
+	padding:25px 0;
+	text-align: right;
+	width: calc(100%/9);
+}
+
+.Name {
+	color: #009688 ;
+    font-weight: 900;
+	font-size: 20px;
+}
+.flex {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+img{
+	display: block;
+	width: 100%;
+}
+.s4 p, .s6 p{
+	color: #000;
+}
+
+
